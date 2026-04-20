@@ -1,4 +1,4 @@
-# Advanced Object Detection Lab (20 Marks)
+# Advanced Object Detection Lab
 
 YOLOv8 fine-tuning on the Ultralytics African Wildlife dataset.
 
