@@ -1,0 +1,14 @@
+[
+  {
+    "image": "3 (219).jpg",
+    "pred_class": 2,
+    "pred_conf": 0.9502027034759521,
+    "best_iou_same_class_gt": 0.9535993337631226
+  },
+  {
+    "image": "3 (228).jpg",
+    "pred_class": 2,
+    "pred_conf": 0.951120913028717,
+    "best_iou_same_class_gt": 0.9713752865791321
+  }
+]

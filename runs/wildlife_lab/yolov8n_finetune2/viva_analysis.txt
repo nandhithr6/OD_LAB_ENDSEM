@@ -1,0 +1,13 @@
+=== Exam-Oriented Performance Analysis ===
+1) Dense forest background:
+- Challenge: busy textures (leaves, branches, shadows) create false positives.
+- Impact: precision can drop because model may detect background patterns as animals.
+- Why YOLOv8 helps: pretrained features improve object localization in cluttered scenes.
+
+2) Camouflage conditions:
+- Challenge: low contrast between animal and background reduces visibility of edges.
+- Impact: recall can drop because some animals are missed (false negatives).
+- Typical observation: larger animals are detected better than partially hidden ones.
+
+Short viva conclusion:
+Fine-tuning a pretrained YOLOv8 model gives good baseline performance quickly, but dense background and camouflage remain hard cases that affect precision/recall.

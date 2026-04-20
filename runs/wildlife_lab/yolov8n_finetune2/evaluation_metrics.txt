@@ -1,0 +1,6 @@
+YOLOv8 Evaluation Metrics
+precision_mean: 0.9194
+recall_mean: 0.8838
+map50: 0.9455
+map75: 0.8867
+map50_95: 0.7611
